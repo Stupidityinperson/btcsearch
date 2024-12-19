@@ -10,7 +10,7 @@ This script generates Bitcoin addresses and checks them against a list of known 
 
 1. Clone the repository:
     ```sh
-    git clone github.com/Stupidityinperson/Btcsearch
+    git clone https://github.com/Stupidityinperson/btcsearch.git
     cd btcsearch
     ```
 
